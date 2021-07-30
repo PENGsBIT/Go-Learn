@@ -1,2 +1,2 @@
 # Go-Learn
-A Demo For Go
+Go的一些学习总结
